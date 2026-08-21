@@ -28,7 +28,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="/Recursos/EnzoSalas.jpg" width="90"/> | **Enzo Salas** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/ArianaS.jpg" width="90"/> | **Ariana Sifuentes** | Distribuir equipos biomédicos, biomateriales  |
+| <img src="/Recursos/ArianaS.jpg" width="90"/> | **Ariana Sifuentes** | Gestionadora Ambiental | Distribuir equipos biomédicos, biomateriales |
 | <img src="/Recursos/AndreS.jpg" width="90"/> | **Andre Sanchez** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/MariaT.jpg" width="90"/> | **Maria Tasaico** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 | <img src="/Recursos/MarceloJ.jpg" width="90"/> | **Marcelo Jaimes** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
