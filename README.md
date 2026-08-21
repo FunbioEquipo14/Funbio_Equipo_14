@@ -1,11 +1,11 @@
-# Equipo 14 - Nombre del curso
-### Carrera de Ingeniería Ambiental / Informática / Industrial  
+# Equipo 14 - Fundamentos de Biodiseño
+### Carrera de Ingeniería Biomédica
 **Universidad Peruana Cayetano Heredia**
 
 ---
 
 ## 🌍 Descripción del Equipo 
-Somos el **Equipo 0X** del curso **Nombre del curso 202X-1**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+Somos el **Equipo 14** del curso **Nombre del curso 2026-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
@@ -29,11 +29,12 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 5** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Enzo Salas** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Ariana Sifuentes** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Andre Sanchez** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Maria Tasaico** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Marcelo Jaimes** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Bianca Zaplana** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
