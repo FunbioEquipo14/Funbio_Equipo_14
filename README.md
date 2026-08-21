@@ -19,7 +19,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/user-attachments/assets/3829718f-51c7-4d00-b262-ef37f178f059" />
+<img width="1408" height="768" src="/Recursos/FotoGrupal.jpg" />
   <em>Figura 1. Fotografía del equipo 0X</em>
 </p>
 
@@ -29,12 +29,12 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/EnzoS.png" width="90"/> | **Enzo Salas** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/ArianaS.png" width="90"/> | **Ariana Sifuentes** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/AndreS.png" width="90"/> | **Andre Sanchez** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/MariaT.png" width="90"/> | **Maria Tasaico** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/MarceloJ.png" width="90"/> | **Marcelo Jaimes** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
-| <img src="/Recursos/BiancaZ.png" width="90"/> | **Bianca Zaplana** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/EnzoSalas.jpg" width="90"/> | **Enzo Salas** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/ArianaS.jpg" width="90"/> | **Ariana Sifuentes** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/AndreS.jpg" width="90"/> | **Andre Sanchez** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/MariaT.jpg" width="90"/> | **Maria Tasaico** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/MarceloJ.jpg" width="90"/> | **Marcelo Jaimes** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/BiancaZ.jpg" width="90"/> | **Bianca Zaplana** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
