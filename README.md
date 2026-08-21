@@ -5,7 +5,7 @@
 ---
 
 ## 🌍 Descripción del Equipo 
-Somos el **Equipo 14** del curso **Nombre del curso 2026-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+Somos el **Equipo 14** del curso **Nombre del curso 2026-2**, conformado por estudiantes de la carrera de Biomédica.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
@@ -29,12 +29,12 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Enzo Salas** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Ariana Sifuentes** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Andre Sanchez** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Maria Tasaico** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Marcelo Jaimes** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Bianca Zaplana** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/EnzoS.png" width="90"/> | **Enzo Salas** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/ArianaS.png" width="90"/> | **Ariana Sifuentes** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/AndreS.png" width="90"/> | **Andre Sanchez** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/MariaT.png" width="90"/> | **Maria Tasaico** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/MarceloJ.png" width="90"/> | **Marcelo Jaimes** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/BiancaZ.png" width="90"/> | **Bianca Zaplana** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
