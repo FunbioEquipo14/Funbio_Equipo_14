@@ -27,10 +27,10 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/EnzoSalas.jpg" width="90"/> | **Enzo Salas** | Líder del equipo | Innovación social |
-| <img src="/Recursos/ArianaS.jpg" width="90"/> | **Ariana Sifuentes** | Encargada de la documentacion | Distribuir equipos biomédicos, biomateriales |
+| <img src="/Recursos/EnzoSalas.jpg" width="90"/> | **Enzo Salas** | Encargada de documentación | Innovación social |
+| <img src="/Recursos/ArianaS.jpg" width="90"/> | **Ariana Sifuentes** | Diseñadora | Distribuir equipos biomédicos, biomateriales |
 | <img src="/Recursos/AndreS.jpg" width="90"/> | **Andre Sanchez** | Encargado de materiales | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/MariaT.jpg" width="90"/> | **Maria Tasaico** | Encargada de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/MariaT.jpg" width="90"/> | **Maria Tasaico** |  Líder del equipo | Comunicación científica, redacción técnica |
 | <img src="/Recursos/MarceloJ.jpg" width="90"/> | **Marcelo Jaimes** | Programador | Programación, análisis de datos, simulación |
 | <img src="/Recursos/BiancaZ.jpg" width="90"/> | **Bianca Zaplana** | Programadora| Programación, análisis de datos, simulación |
 
