@@ -1,0 +1,97 @@
+#include "BluetoothSerial.h"
+
+
+BluetoothSerial SerialBT;
+
+
+// Definición de pines para los 4 sensores FSR (ADC1)
+const int fsr1Pin = 36;  // VP      10Kg
+const int fsr2Pin = 39;  // VN      10Kg
+const int fsr3Pin = 34;  //         10Kg
+const int fsr4Pin = 35;  //         20Kg (Zona Roja)
+
+
+// Definición de pines para los 4 LEDs
+const int led1Pin = 2;
+const int led2Pin = 4;
+const int led3Pin = 5;
+const int led4Pin = 19;
+
+
+const int umbral = 820;          // Valor calibrado para 32 mmHg (sensores 10kg)
+const int umbral_zonaRoja = 320; // Valor crítico para Zona Roja (sensor 20kg)
+
+
+// Variables para el parpadeo no bloqueante del LED 4
+unsigned long tiempoAnteriorLed4 = 0;
+const unsigned long intervaloParpadeo = 200; // Velocidad de parpadeo en ms (200 ms = alerta rápida)
+bool estadoLed4 = LOW;
+
+
+void setup() {
+  Serial.begin(115200);
+ 
+  // Configurar los 4 pines de los LEDs como salida
+  pinMode(led1Pin, OUTPUT);
+  pinMode(led2Pin, OUTPUT);
+  pinMode(led3Pin, OUTPUT);
+  pinMode(led4Pin, OUTPUT);
+ 
+  // Inicia el Bluetooth
+  SerialBT.begin("EncajePelvico_Pai");
+  Serial.println("Bluetooth listo. Monitoreando 4 sensores y 4 LEDs.");
+}
+
+
+void loop() {
+  // 1. Leer los 4 sensores físicos
+  int valor1 = analogRead(fsr1Pin);
+  int valor2 = analogRead(fsr2Pin);
+  int valor3 = analogRead(fsr3Pin);
+  int valor4 = analogRead(fsr4Pin);
+ 
+  // 2. Lógica de alerta física INDEPENDIENTE
+  // LED 1 (Fijo)
+  if (valor1 > umbral) digitalWrite(led1Pin, HIGH);
+  else digitalWrite(led1Pin, LOW);
+
+
+  // LED 2 (Fijo)
+  if (valor2 > umbral) digitalWrite(led2Pin, HIGH);
+  else digitalWrite(led2Pin, LOW);
+
+
+  // LED 3 (Fijo)
+  if (valor3 > umbral) digitalWrite(led3Pin, HIGH);
+  else digitalWrite(led3Pin, LOW);
+
+
+  // LED 4 - Zona Roja (Parpadeo de alta prioridad al superar 320)
+  if (valor4 > umbral_zonaRoja) {
+    unsigned long tiempoActual = millis();
+    if (tiempoActual - tiempoAnteriorLed4 >= intervaloParpadeo) {
+      tiempoAnteriorLed4 = tiempoActual;
+      estadoLed4 = !estadoLed4; // Invierte encendido/apagado
+      digitalWrite(led4Pin, estadoLed4);
+    }
+  } else {
+    estadoLed4 = LOW;
+    digitalWrite(led4Pin, LOW);
+  }
+
+
+  // 3. Empaquetar los datos separados por comas para App Inventor
+  String paqueteDatos = String(valor1) + "," + String(valor2) + "," +
+                        String(valor3) + "," + String(valor4);
+
+
+  // 4. Enviar los datos por Bluetooth a la app
+  SerialBT.println(paqueteDatos);
+ 
+  // 5. Monitoreo en computadora
+  Serial.println("Enviando: " + paqueteDatos);
+
+
+  // Pausa de 200ms para App Inventor
+  delay(200);
+}
